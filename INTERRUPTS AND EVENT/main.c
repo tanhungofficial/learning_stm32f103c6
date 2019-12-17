@@ -1,3 +1,12 @@
+/*
+###############################################################################
+@---------- HCMUTE-FALCUTY OF ELECTRICAL AND ELECTRONIC ENGINEERING -----------
+@Author:		NGUYEN TAN HUNG			
+@Email: 		Tanhungofficial@gmail.com
+@Github:		https://github.com/tanhungofficial
+###############################################################################
+*/
+
 #include "stm32f10x.h"                  // Device header
 #include "stm32f10x_gpio.h"             // Keil::Device:StdPeriph Drivers:GPIO
 #include "stm32f10x_rcc.h"              // Keil::Device:StdPeriph Drivers:RCC
